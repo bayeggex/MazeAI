@@ -1,0 +1,14 @@
+C:\Users\bayeg\Documents\AImaze\bin\Debug\net8.0\AImaze.exe
+C:\Users\bayeg\Documents\AImaze\bin\Debug\net8.0\AImaze.deps.json
+C:\Users\bayeg\Documents\AImaze\bin\Debug\net8.0\AImaze.runtimeconfig.json
+C:\Users\bayeg\Documents\AImaze\bin\Debug\net8.0\AImaze.dll
+C:\Users\bayeg\Documents\AImaze\bin\Debug\net8.0\AImaze.pdb
+C:\Users\bayeg\Documents\AImaze\obj\Debug\net8.0\AImaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayeg\Documents\AImaze\obj\Debug\net8.0\AImaze.AssemblyInfoInputs.cache
+C:\Users\bayeg\Documents\AImaze\obj\Debug\net8.0\AImaze.AssemblyInfo.cs
+C:\Users\bayeg\Documents\AImaze\obj\Debug\net8.0\AImaze.csproj.CoreCompileInputs.cache
+C:\Users\bayeg\Documents\AImaze\obj\Debug\net8.0\AImaze.dll
+C:\Users\bayeg\Documents\AImaze\obj\Debug\net8.0\refint\AImaze.dll
+C:\Users\bayeg\Documents\AImaze\obj\Debug\net8.0\AImaze.pdb
+C:\Users\bayeg\Documents\AImaze\obj\Debug\net8.0\AImaze.genruntimeconfig.cache
+C:\Users\bayeg\Documents\AImaze\obj\Debug\net8.0\ref\AImaze.dll
