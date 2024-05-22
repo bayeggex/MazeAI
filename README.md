@@ -27,6 +27,14 @@ To run the MazeAI application, follow these steps:
 
 The application will generate a random maze and display it in the console. It will then find all possible solutions and print them out. Finally, it will run a test using both DFS and BFS algorithms and display the execution time for each algorithm. The shortest and longest solutions will also be printed.
 
+## ⚙️ RoadMap
+
+- [ ] GUI
+- [ ] Wheels of difficulty
+- [ ] Algorithm Enhancements
+- [ ] Multiple question solving
+- [ ] More Stats
+
 ## 🤝 Contributing
 Contributions to MazeAI are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
