@@ -42,4 +42,6 @@ Contributions to MazeAI are welcome! If you find any bugs or have suggestions fo
 
 MazeAI is licensed under the MIT License.
 
+## 🤿 Dive in!
+
 ![resim](https://github.com/bayeggex/MazeAI/assets/79448667/e5c27a1c-6cf4-4ffc-aa98-a2b9821d4f71)
