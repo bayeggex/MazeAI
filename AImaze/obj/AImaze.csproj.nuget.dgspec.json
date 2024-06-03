@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bayeg\\Documents\\AImaze\\AImaze.csproj": {}
+    "C:\\Users\\bayeg\\OneDrive\\Documents\\mazeai\\AImaze\\AImaze.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bayeg\\Documents\\AImaze\\AImaze.csproj": {
+    "C:\\Users\\bayeg\\OneDrive\\Documents\\mazeai\\AImaze\\AImaze.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bayeg\\Documents\\AImaze\\AImaze.csproj",
+        "projectUniqueName": "C:\\Users\\bayeg\\OneDrive\\Documents\\mazeai\\AImaze\\AImaze.csproj",
         "projectName": "AImaze",
-        "projectPath": "C:\\Users\\bayeg\\Documents\\AImaze\\AImaze.csproj",
+        "projectPath": "C:\\Users\\bayeg\\OneDrive\\Documents\\mazeai\\AImaze\\AImaze.csproj",
         "packagesPath": "C:\\Users\\bayeg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bayeg\\Documents\\AImaze\\obj\\",
+        "outputPath": "C:\\Users\\bayeg\\OneDrive\\Documents\\mazeai\\AImaze\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
