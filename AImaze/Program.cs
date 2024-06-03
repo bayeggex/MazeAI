@@ -5,8 +5,8 @@ using System.Text;
 
 class MazeAI
 {
-    static int width = 10;
-    static int height = 10;
+    static int width = new Random().Next(5, 20);
+    static int height = new Random().Next(5, 20);
     static int[,] maze = new int[width, height];
     static List<List<(int, int)>> solutions = new List<List<(int, int)>>();
     static List<(int, int)> shortestPath;
